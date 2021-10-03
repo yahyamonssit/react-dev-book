@@ -1,0 +1,19 @@
+.notification {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 1px solid white;
+  background-color: rgb(240, 49, 49);
+  position: absolute;
+  bottom: 10px;
+  left: 5px;
+}
+
+.btn-notification {
+  font-size: 18px;
+  position: relative;
+}
+
+.mx-height {
+  height: calc(100vh - (86px + 74px));
+}
